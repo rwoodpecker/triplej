@@ -3,4 +3,4 @@
 Caveats:
 
 * Song data isn't captured if the ABC studio in use doesn't send data to the playout stream (either because it is old, or the current track is being played off vinyl/CD instead of from the computer, etc). This mainly affects late night (after 9pm).
-* I'm not aware of any massive gaps in data but I haven't checked thoroughly. 
+* I'm not aware of any massive gaps in data but I haven't checked thoroughly.
